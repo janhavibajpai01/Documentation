@@ -1,0 +1,78 @@
+A. Software Resources Required
+
+1. Operating System:
+
+2. Application Server: Tomcat5.0/6.X, Glassfish
+
+3. Front End: HTML, Java, Jsp
+
+4. Scripts: JavaScript the Cloud
+
+5. Server-side Script: Java Server Pages.
+
+B. Software Resources Required Platform:
+
+1. Operating System: Windows XP and above
+
+2. IDE: NetBeans IDE 8.2
+
+3. Programming Language: JAVA
+
+4. Database: MYSQL
+
+a) JDK 1.8 Installation
+
+1. Double-click jdk-8-ea-bin-b32-windows-i586 to run the installation program. JDK License dialog displayed. Accept the license to install JDK.
+
+2. The JRE Custom setup dialog enables you to choose a custom directory for JRE Files.
+
+3. The complete dialog indicates a successful installation.
+
+b) Net Beans IDE 8.2 Installation To install the software:
+
+1. After the download completes, run the installer. For Windows, the installer exe curable file has the .exe extension. Double-click the installer file to run it.
+
+2. If you downloaded the All bundle, you can customize your installation. Perform the following steps at the Welcome page of the installation wizard: a. Click Customize. b. In the Customize Installation dialog box, make your selections.
+
+3. At the Welcome page of the installation wizard, click Next. At the License agreement page, review the license agreement, click the acceptance check box, and click Next. At the JUnit License Agreement page, decide if you want to install JUnit and click the appropriate option, click Next. At the NetBeans IDE installation page, do the following:
+
+4. Accept the default installation directory for the NetBeans IDE or specify another directory. Note: The installation directory must be empty and the user profile you are using to run the installer must have read/ write permissions for this directory.
+
+5. Accept the default JDK installation to use with the NetBeans IDE or select a different installation from the drop-down list. If the installation wizard did not find a compatible JDK installation to use with the Net-Beans IDE, your JDK is not installed in the default location. In this case, specify the path to an installed JDK and click Next, or cancel the current installation. After installing the required JDK version you can restart the installation.
+
+6. If you are installing Apache Tomcat, on its installation page, accept the default installation directory or specify another installation location. Click Next.
+
+1. At the Summary page, verify that the list of components to be installed is correct and that you have adequate space on your system for the installation
+
+2. Click Install to begin the installation.
+
+3. At the Setup Complete page, provide anonymous usage data if desired, and click Finish.
+
+b) JSP
+
+Java Server Pages (JSP) is a technology for developing web pages that support dynamic content which helps developers insert Java code in HTML pages by making use of special JSP tags, most of which start with ¡type of Java servlet that is designed to fulfill the role of a user interface for a Java web application. Web developers write JSPs as text files that combine HTML or XHTML code, XML elements, and embedded JSP actions and commands. Using JSP, you can collect input from users through web page forms, present records from a database or another source, and create web pages dynamically. JSP tags can be used for a variety of purposes, such as retrieving information from a database or registering user preferences, accessing JavaBeans components, passing control between pages, and sharing information between requests, pages, etc.
+
+a) MySQL
+
+MySQL is a fast, easy-to-use RDBMS being used for many small and big businesses. MySQL is developed, marketed, and supported by MySQL AB, which is a Swedish company. MySQL is becoming so popular because of many good reasons:
+
+1.MySQL is released under an open-source license. So, you have nothing to pay to use it.
+
+2.MySQL is a very powerful program in its own right. It handles a large subset of the functionality of the most expensive and powerful database packages.
+
+3.MySQL uses a standard form of the well-known SQL data language.
+
+4.MySQL works on many operating systems and with many languages including PHP, PERL, C, C++, JAVA, etc.
+
+5.MySQL works very quickly and works well even with large data sets.
+
+6.. MySQL is very friendly to PHP, the most appreciated language for web development.
+
+7.MySQL supports large databases, up to 50 million rows or more in a table. The default file size limit for a table is 4GB, but you can increase this (if your operating system can handle it) to a theoretical limit of 8 million terabytes (TB).
+
+8.MySQL is customizable. The open-source GPL license allows programmers to modify the MySQL software to fit their specific environments.
+
+
+
+
+
